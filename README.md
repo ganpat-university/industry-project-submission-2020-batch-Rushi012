@@ -1,5 +1,5 @@
 
-4.1	Project 1 Details (Course Buying Website – Coursewebapp)
+Project 1 Details (Course Buying Website – Coursewebapp)
 
 •	Login: Enables users to authenticate themselves, granting access to their personalized accounts and the system's functionalities.
 
@@ -20,7 +20,7 @@
 •	View Main Course, Sub Course, Video: Enables users to navigate through the available main courses, sub-courses, and videos, facilitating easy access to learning materials.
 
 
-4.1	Project 2 Details (Ecommerce Website – Giftcart)
+Project 2 Details (Ecommerce Website – Giftcart)
 
 •	Login: Allows users to securely access the system by providing their credentials, facilitating personalized interaction with the platform.
 
