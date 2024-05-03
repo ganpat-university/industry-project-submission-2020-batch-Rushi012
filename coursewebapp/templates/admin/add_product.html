@@ -1,0 +1,67 @@
+{% extends "admin/header.html"%}
+{% block content %}
+<section class="is-title-bar">
+  <div class="flex flex-col md:flex-row items-center justify-between space-y-6 md:space-y-0">
+    <ul>
+      <li>Admin</li>
+      <li>Add-Main</li>
+    </ul>
+    
+  </div>
+</section>
+
+<section class="is-hero-bar">
+  <div class="flex flex-col md:flex-row items-center justify-between space-y-6 md:space-y-0">
+    <h1 class="title">
+        Add-Main
+    </h1>
+  </div>
+</section>
+
+  <section class="section main-section">
+    <div class="card mb-6">
+      <header class="card-header">
+        <p class="card-header-title">
+          <span class="icon"><i class="mdi mdi-ballot"></i></span>
+          Add-Main
+        </p>
+      </header>
+      <div class="card-content">
+        <form method="post" enctype="multipart/form-data">
+          <div class="field">
+            <label class="label">Main Details</label>
+            <div class="field-body">
+              <div class="field">Name
+                <div class="control icons-left">
+                  <input class="input" type="text" or="Name" name = "Name" id = "Name"  placeholder="Name" >
+                  <span class="icon left"><i class="mdi mdi-account"></i></span>
+                </div>
+              </div>
+              <div class="field">Logo
+                <div class="control icons-left icons-right">
+                  <input class="input" type="file" for="Logo" name = "Logo" id = "Logo"  placeholder="Logo"  >
+                </div>
+                
+              </div>
+              
+            </div>
+            </div>
+          </div>
+        
+        </div>
+       
+      </div>
+      </div>
+    </div>
+  
+          <div class="field grouped">
+            <div class="control">
+                <input type="submit" class="button green" value="Update">
+            </div>
+            </div>
+          </div>
+        </form>
+      </div>
+    </div>
+</section>
+  {% endblock %}

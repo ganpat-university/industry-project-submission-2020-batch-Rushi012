@@ -1,0 +1,64 @@
+.ogs-field-icon {
+  float: right;
+  margin-left: -25px;
+  margin-top: 15px;	
+  position: relative;
+  z-index: 2;
+}
+.ogs-button{
+	background-color: #009efb; 
+	color: white;
+	border:2px solid #009efb;
+	border-radius: 5px;
+
+}
+.ogs-m-0 {
+	margin: 0 !important;
+}
+
+.ogs-login-container {
+	border: 1px solid #dddddd;
+	border-radius: 6px;
+	padding: 15px;
+	margin-top: 15px;
+}
+
+.ogs-navigatin {
+	position: fixed;
+	left: 0;
+	top: 0;
+	width: 100%;
+	padding-left: 15px;
+	padding-right: 5px;
+	background-color: #337ab7;
+	color: #ffffff;
+}
+
+.ogs-navbar {
+	margin: 0;
+	padding: 0;
+	background: none;
+	border: none;
+	color: #ffffff;
+}
+
+.ogs-navbar .collapse {
+	padding: 0;
+}
+
+.ogs-navbar .navbar-nav > li > a {
+	color: #ffffff !important;
+}
+
+.ogs-navbar .navbar-right {
+	margin-right: 0;
+}
+
+.ogs-panel-body {
+	margin-top: 100px;
+}
+
+.ogs-page-title {
+	border-bottom: 1px solid #cacaca;
+	padding-bottom: 15px;
+}
