@@ -1,1 +1,0 @@
-cart.php?pr_id=<?php echo $f[0]; ?>
